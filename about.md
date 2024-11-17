@@ -1,18 +1,19 @@
 ---
-title: Colophon
+title: sobre mí
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Este documento sobre mí misma !
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Soy **Hafsa Katkout Aabil**, una estudiante de Torrelavega, Cantabria. Actualmente estoy cursando el segundo año de ASIR, enfocada en el mundo de la informática y la tecnología. Mi blog está dedicado a documentar mi viaje en el aprendizaje de programación y diversas áreas de la tecnología. Utilizo Jekyll para gestionar el blog .
 
-If you have a question about him or else, just send a letter to him.
+Me apasiona aprender sobre ciberseguridad, administración de sistemas, redes y bases de datos, especialmente en el contexto de pequeñas y medianas empresas. También disfruto explorando diferentes tecnologías web y mejorando mis habilidades en este campo.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+Si tienes alguna pregunta sobre mis proyectos o sobre cualquier tema relacionado con la informática, no dudes en ponerte en contacto conmigo.
 
-**may u needs ✨**
+**Contacto:**
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- Correo electrónico: {{ hafsakatkout5@gmail.com }}
+- GitHub: github.com/{{ Hafsa-Katkout }}
+
