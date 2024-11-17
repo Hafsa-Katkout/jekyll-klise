@@ -12,8 +12,4 @@ Me apasiona aprender sobre ciberseguridad, administración de sistemas, redes y 
 
 Si tienes alguna pregunta sobre mis proyectos o sobre cualquier tema relacionado con la informática, no dudes en ponerte en contacto conmigo.
 
-**Contacto:**
-
-- Correo electrónico: {{ hafsakatkout5@gmail.com }}
-- GitHub: github.com/{{ Hafsa-Katkout }}
 
